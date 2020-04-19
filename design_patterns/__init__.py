@@ -1,6 +1,3 @@
-
-
-
 # A simple decorator to turn your class into a singleton.
 # Making it thread safe  and all that jazz.
 from functools import wraps
