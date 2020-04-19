@@ -2,7 +2,7 @@
 This is a small python module to design a singleton class python (will add more later on).I have been using python for 2 years and fell in love with it and I would really love to give something (even as small as this module) to the community. If you like it give it a start,hate it tell me why I will try to fix it and you could help too.
 
 ## Pypi Link:
-The package can be found as 
+The package can be found on
 > https://pypi.org/project/design-patterns-WS/1.0.0/
 
 
