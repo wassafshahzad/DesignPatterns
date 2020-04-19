@@ -22,3 +22,9 @@ if __name__ == "__main__":
     print(r == h)
   
 ```
+# Known Issues
+
+The class decorated with singleton will not be able to call its static methods.
+Please to read through this great stackoverflow answer https://stackoverflow.com/questions/6760685/creating-a-singleton-in-python
+
+Will be adding the meta class version as well soon
